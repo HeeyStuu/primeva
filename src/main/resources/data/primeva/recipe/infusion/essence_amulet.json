@@ -1,0 +1,44 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:gold_ingot"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:amber"
+    }
+  ],
+  "research": "trinkets",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:essence_amulet",
+    "count": 1
+  },
+  "essences": {
+    "ember": 16,
+    "tide": 16,
+    "terra": 16,
+    "gale": 16,
+    "lumen": 16,
+    "umbra": 16
+  }
+}

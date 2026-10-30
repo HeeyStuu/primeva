@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "tag": "minecraft:coals"
+  },
+  "essences": {
+    "ember": 6,
+    "terra": 2
+  },
+  "research": "eternal_flame",
+  "result": {
+    "id": "primeva:arcane_fuel",
+    "count": 1
+  }
+}

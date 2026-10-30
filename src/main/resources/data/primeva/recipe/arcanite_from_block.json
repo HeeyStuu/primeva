@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "primeva:arcanite_block"
+    }
+  ],
+  "result": {
+    "id": "primeva:arcanite_ingot",
+    "count": 9
+  }
+}

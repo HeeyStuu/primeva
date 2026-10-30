@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:lens"
+    },
+    "title": {
+      "translate": "advancements.primeva.root.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/purple_terracotta.png"
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "primeva:lens"
+          }
+        ]
+      }
+    }
+  }
+}

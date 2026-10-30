@@ -1,0 +1,214 @@
+{
+  "values": {
+    "minecraft:zombie": {
+      "umbra": 3,
+      "terra": 1
+    },
+    "minecraft:husk": {
+      "umbra": 3,
+      "ember": 1
+    },
+    "minecraft:drowned": {
+      "umbra": 3,
+      "tide": 1
+    },
+    "minecraft:skeleton": {
+      "umbra": 3,
+      "gale": 1
+    },
+    "minecraft:creeper": {
+      "ember": 3,
+      "gale": 2
+    },
+    "minecraft:spider": {
+      "umbra": 2,
+      "terra": 1
+    },
+    "minecraft:enderman": {
+      "umbra": 5,
+      "gale": 2
+    },
+    "minecraft:blaze": {
+      "ember": 6,
+      "lumen": 2
+    },
+    "minecraft:ghast": {
+      "ember": 3,
+      "gale": 4,
+      "umbra": 2
+    },
+    "minecraft:cow": {
+      "terra": 3
+    },
+    "minecraft:pig": {
+      "terra": 2,
+      "ember": 1
+    },
+    "minecraft:sheep": {
+      "terra": 2,
+      "gale": 2
+    },
+    "minecraft:chicken": {
+      "gale": 3
+    },
+    "minecraft:squid": {
+      "tide": 4
+    },
+    "minecraft:glow_squid": {
+      "tide": 3,
+      "lumen": 3
+    },
+    "minecraft:dolphin": {
+      "tide": 5,
+      "gale": 1
+    },
+    "minecraft:villager": {
+      "lumen": 3,
+      "terra": 2
+    },
+    "minecraft:iron_golem": {
+      "terra": 6,
+      "lumen": 2
+    },
+    "minecraft:bee": {
+      "gale": 2,
+      "lumen": 2
+    },
+    "minecraft:horse": {
+      "terra": 2,
+      "gale": 3
+    },
+    "minecraft:wolf": {
+      "terra": 2,
+      "umbra": 1
+    },
+    "minecraft:cat": {
+      "umbra": 2,
+      "gale": 1
+    },
+    "minecraft:slime": {
+      "tide": 3,
+      "terra": 2
+    },
+    "minecraft:witch": {
+      "umbra": 4,
+      "tide": 2
+    },
+    "minecraft:phantom": {
+      "gale": 4,
+      "umbra": 3
+    },
+    "minecraft:warden": {
+      "umbra": 45,
+      "terra": 25,
+      "tide": 10
+    },
+    "minecraft:allay": {
+      "gale": 3,
+      "lumen": 4
+    },
+    "minecraft:axolotl": {
+      "tide": 3,
+      "lumen": 1
+    },
+    "minecraft:frog": {
+      "tide": 2,
+      "terra": 2
+    },
+    "minecraft:fox": {
+      "terra": 2,
+      "ember": 1
+    },
+    "minecraft:bat": {
+      "umbra": 2,
+      "gale": 2
+    },
+    "minecraft:turtle": {
+      "tide": 3,
+      "terra": 2
+    },
+    "minecraft:wither_skeleton": {
+      "umbra": 5,
+      "ember": 2
+    },
+    "minecraft:piglin": {
+      "ember": 2,
+      "lumen": 2
+    },
+    "minecraft:magma_cube": {
+      "ember": 4,
+      "tide": 1
+    },
+    "minecraft:guardian": {
+      "tide": 5,
+      "umbra": 1
+    },
+    "minecraft:vex": {
+      "gale": 3,
+      "umbra": 3
+    },
+    "minecraft:rabbit": {
+      "gale": 2,
+      "terra": 1
+    },
+    "minecraft:parrot": {
+      "gale": 3,
+      "lumen": 1
+    },
+    "minecraft:strider": {
+      "ember": 4,
+      "terra": 1
+    },
+    "minecraft:breeze": {
+      "gale": 12
+    },
+    "minecraft:wither": {
+      "umbra": 60,
+      "ember": 30,
+      "terra": 20
+    },
+    "minecraft:ender_dragon": {
+      "umbra": 50,
+      "gale": 50,
+      "lumen": 40
+    },
+    "minecraft:elder_guardian": {
+      "tide": 45,
+      "lumen": 15,
+      "terra": 10
+    },
+    "minecraft:shulker": {
+      "umbra": 8,
+      "gale": 6
+    },
+    "minecraft:evoker": {
+      "umbra": 10,
+      "lumen": 8
+    },
+    "minecraft:ravager": {
+      "terra": 12,
+      "ember": 6
+    },
+    "minecraft:piglin_brute": {
+      "ember": 10,
+      "terra": 6
+    },
+    "minecraft:sniffer": {
+      "terra": 10,
+      "lumen": 4
+    },
+    "primeva:crimson_cultist": {
+      "umbra": 4,
+      "ember": 2,
+      "terra": 1
+    },
+    "primeva:arcane_golem": {
+      "terra": 3,
+      "lumen": 2
+    },
+    "primeva:miasma_wraith": {
+      "umbra": 5,
+      "gale": 3
+    }
+  }
+}

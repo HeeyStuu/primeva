@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VVV",
+    "V V",
+    "V V"
+  ],
+  "key": {
+    "V": {
+      "item": "primeva:voidsteel_ingot"
+    }
+  },
+  "result": {
+    "id": "primeva:voidsteel_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CQC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "Q": {
+      "item": "primeva:quicksilver"
+    }
+  },
+  "result": {
+    "id": "primeva:essence_tube",
+    "count": 6
+  }
+}

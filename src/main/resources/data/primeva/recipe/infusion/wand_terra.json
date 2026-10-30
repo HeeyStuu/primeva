@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    }
+  ],
+  "research": "greater_wands",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:wand_terra",
+    "count": 1
+  },
+  "essences": {
+    "terra": 80
+  }
+}

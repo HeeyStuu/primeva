@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "primeva:block/altar"
+    },
+    "active=true": {
+      "model": "primeva:block/altar"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:iron_ingot"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:arcane_dust"
+    },
+    {
+      "item": "primeva:arcane_dust"
+    }
+  ],
+  "research": "primeval_metal",
+  "instability": 2,
+  "result": {
+    "id": "primeva:primeval_ingot",
+    "count": 2
+  },
+  "essences": {
+    "terra": 16,
+    "ember": 16
+  }
+}

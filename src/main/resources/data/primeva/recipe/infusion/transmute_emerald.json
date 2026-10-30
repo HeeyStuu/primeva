@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:lapis_block"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    }
+  ],
+  "research": "transmutation",
+  "instability": 6,
+  "result": {
+    "id": "minecraft:emerald",
+    "count": 2
+  },
+  "essences": {
+    "terra": 32,
+    "tide": 32,
+    "lumen": 32
+  }
+}

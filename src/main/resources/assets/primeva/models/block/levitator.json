@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "primeva:block/levitator_side",
+    "top": "primeva:block/levitator_top",
+    "bottom": "primeva:block/levitator_side"
+  }
+}

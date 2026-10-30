@@ -1,0 +1,27 @@
+{
+  "parent": "primeva:wraith",
+  "display": {
+    "icon": {
+      "id": "primeva:purifying_incense"
+    },
+    "title": {
+      "translate": "advancements.primeva.purify.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.purify.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "primeva:purifying_incense"
+          }
+        ]
+      }
+    }
+  }
+}

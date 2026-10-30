@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "primeva:arcanite_ingot"
+    }
+  },
+  "result": {
+    "id": "primeva:arcanite_block",
+    "count": 1
+  }
+}

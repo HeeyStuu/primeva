@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "primeva:shard_ember",
+    "primeva:shard_tide",
+    "primeva:shard_terra",
+    "primeva:shard_gale",
+    "primeva:shard_lumen",
+    "primeva:shard_umbra"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:honeycomb"
+  },
+  "essences": {
+    "terra": 3,
+    "ember": 2
+  },
+  "research": "crucible",
+  "result": {
+    "id": "primeva:amber",
+    "count": 1
+  }
+}

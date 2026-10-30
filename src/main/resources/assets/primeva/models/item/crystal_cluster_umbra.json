@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "primeva:block/crystal_cluster_umbra"
+  }
+}

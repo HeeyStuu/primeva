@@ -1,0 +1,39 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:amber"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "advanced_foci",
+  "instability": 5,
+  "tier": 1,
+  "result": {
+    "id": "primeva:focus_hole",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 48
+  }
+}

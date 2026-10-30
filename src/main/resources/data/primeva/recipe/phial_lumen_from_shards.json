@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "primeva:shard_lumen"
+    },
+    {
+      "item": "primeva:shard_lumen"
+    },
+    {
+      "item": "primeva:shard_lumen"
+    },
+    {
+      "item": "primeva:shard_lumen"
+    },
+    {
+      "item": "primeva:empty_phial"
+    }
+  ],
+  "result": {
+    "id": "primeva:phial_lumen",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "primeva:block/hungry_chest_top",
+    "front": "primeva:block/hungry_chest_front",
+    "side": "primeva:block/hungry_chest_side"
+  }
+}

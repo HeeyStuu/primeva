@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:chiseled_stone_bricks"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "research": "warding",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:warding_stone",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 24,
+    "terra": 12
+  }
+}

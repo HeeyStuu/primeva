@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcanite_pickaxe"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "elemental_tools",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:ember_pickaxe",
+    "count": 1
+  },
+  "essences": {
+    "ember": 32
+  }
+}

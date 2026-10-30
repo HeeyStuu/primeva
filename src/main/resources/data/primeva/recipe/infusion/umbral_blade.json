@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:diamond_sword"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "minecraft:wither_rose"
+    },
+    {
+      "item": "primeva:phial_ember"
+    }
+  ],
+  "research": "umbral_blade",
+  "instability": 5,
+  "result": {
+    "id": "primeva:umbral_blade",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 32,
+    "ember": 16
+  }
+}

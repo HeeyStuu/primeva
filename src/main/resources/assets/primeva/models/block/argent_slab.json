@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "primeva:block/argent_planks",
+    "top": "primeva:block/argent_planks",
+    "side": "primeva:block/argent_planks"
+  }
+}

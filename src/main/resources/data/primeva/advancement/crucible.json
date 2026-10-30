@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:crucible"
+    },
+    "title": {
+      "translate": "advancements.primeva.crucible.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.crucible.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "primeva:crucible"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:grimoire"
+}

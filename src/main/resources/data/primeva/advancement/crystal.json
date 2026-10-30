@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:crystal_lumen"
+    },
+    "title": {
+      "translate": "advancements.primeva.crystal.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.crystal.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "primeva:crystal_ember",
+              "primeva:crystal_tide",
+              "primeva:crystal_terra",
+              "primeva:crystal_gale",
+              "primeva:crystal_lumen",
+              "primeva:crystal_umbra"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:altar"
+}

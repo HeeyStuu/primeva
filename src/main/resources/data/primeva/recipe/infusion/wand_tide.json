@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "primeva:arcane_dust"
+    }
+  ],
+  "research": "elemental_wands",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:wand_tide",
+    "count": 1
+  },
+  "essences": {
+    "tide": 48
+  }
+}

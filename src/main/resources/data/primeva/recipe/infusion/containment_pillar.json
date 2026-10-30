@@ -1,0 +1,38 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    }
+  ],
+  "research": "containment",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:containment_pillar",
+    "count": 2
+  },
+  "essences": {
+    "terra": 32,
+    "lumen": 16,
+    "umbra": 16
+  }
+}

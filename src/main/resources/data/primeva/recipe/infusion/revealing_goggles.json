@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:leather_helmet"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:lens"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    }
+  ],
+  "research": "goggles",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:revealing_goggles",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 16
+  }
+}

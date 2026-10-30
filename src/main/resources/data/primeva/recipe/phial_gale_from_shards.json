@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "primeva:shard_gale"
+    },
+    {
+      "item": "primeva:shard_gale"
+    },
+    {
+      "item": "primeva:shard_gale"
+    },
+    {
+      "item": "primeva:shard_gale"
+    },
+    {
+      "item": "primeva:empty_phial"
+    }
+  ],
+  "result": {
+    "id": "primeva:phial_gale",
+    "count": 1
+  }
+}

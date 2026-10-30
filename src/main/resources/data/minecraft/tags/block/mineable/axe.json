@@ -1,0 +1,14 @@
+{
+  "values": [
+    "primeva:study_table",
+    "primeva:argent_log",
+    "primeva:elder_log",
+    "primeva:argent_planks",
+    "primeva:elder_planks",
+    "primeva:hungry_chest",
+    "primeva:elder_stairs",
+    "primeva:elder_slab",
+    "primeva:argent_stairs",
+    "primeva:argent_slab"
+  ]
+}

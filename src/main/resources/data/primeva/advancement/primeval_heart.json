@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:primeval_heart"
+    },
+    "title": {
+      "translate": "advancements.primeva.primeval_heart.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.primeval_heart.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "primeva:primeval_heart"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:primeval_armor"
+}

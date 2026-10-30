@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "primeva:block/study_table",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "primeva:block/study_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "primeva:block/study_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "primeva:block/study_table",
+      "y": 270
+    }
+  }
+}

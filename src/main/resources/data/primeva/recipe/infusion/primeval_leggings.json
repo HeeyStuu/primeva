@@ -1,0 +1,43 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "primeva:crystal_lumen"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "research": "primeval_armor",
+  "instability": 8,
+  "tier": 2,
+  "result": {
+    "id": "primeva:primeval_leggings",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 20,
+    "terra": 20
+  }
+}

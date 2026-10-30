@@ -1,0 +1,38 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:gold_ingot"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:amber"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "runic_ring",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:runic_ring",
+    "count": 1
+  },
+  "essences": {
+    "terra": 16,
+    "lumen": 16,
+    "tide": 16
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:sea_lantern"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_lumen"
+    },
+    {
+      "item": "primeva:crystal_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    }
+  ],
+  "research": "greater_wands",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:wand_lumen",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 80
+  }
+}

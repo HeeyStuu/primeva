@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:crimson_scepter"
+    },
+    "title": {
+      "translate": "advancements.primeva.herald.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.herald.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "primeva:crimson_herald"
+        }
+      }
+    }
+  },
+  "parent": "primeva:cultist"
+}

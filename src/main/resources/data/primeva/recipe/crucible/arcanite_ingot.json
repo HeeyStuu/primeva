@@ -1,0 +1,16 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:iron_ingot"
+  },
+  "essences": {
+    "terra": 4,
+    "umbra": 2,
+    "lumen": 2
+  },
+  "research": "arcanite",
+  "result": {
+    "id": "primeva:arcanite_ingot",
+    "count": 1
+  }
+}

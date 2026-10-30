@@ -1,0 +1,31 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:primordial_salt"
+  },
+  "pedestals": [
+    {
+      "item": "minecraft:iron_sword"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "research": "advanced_seals",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:seal_guard",
+    "count": 2
+  },
+  "essences": {
+    "ember": 16,
+    "umbra": 16
+  }
+}

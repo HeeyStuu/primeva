@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "primeva:elder_planks"
+    }
+  },
+  "result": {
+    "id": "primeva:elder_slab",
+    "count": 6
+  }
+}

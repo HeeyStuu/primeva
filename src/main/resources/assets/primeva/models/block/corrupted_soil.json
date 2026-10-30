@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "primeva:block/corrupted_soil_top",
+    "side": "primeva:block/corrupted_soil_side",
+    "bottom": "minecraft:block/dirt"
+  }
+}

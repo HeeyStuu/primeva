@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:lantern"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "primeva:phial_tide"
+    }
+  ],
+  "research": "miasma",
+  "instability": 3,
+  "result": {
+    "id": "primeva:purifier",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 48,
+    "tide": 16
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:empty_phial"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_lumen"
+    },
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  ],
+  "research": "elixirs",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:elixir_primeval",
+    "count": 3
+  },
+  "essences": {
+    "lumen": 40
+  }
+}

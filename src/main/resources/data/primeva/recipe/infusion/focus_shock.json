@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:amber"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:lightning_rod"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "foci",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:focus_shock",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32
+  }
+}

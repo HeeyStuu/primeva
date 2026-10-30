@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:eternal_flame"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "arcane_devices",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:arcane_lamp",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 32
+  }
+}

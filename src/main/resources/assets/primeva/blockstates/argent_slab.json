@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "primeva:block/argent_slab"
+    },
+    "type=top": {
+      "model": "primeva:block/argent_slab_top"
+    },
+    "type=double": {
+      "model": "primeva:block/argent_planks"
+    }
+  }
+}

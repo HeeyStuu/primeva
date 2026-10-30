@@ -1,0 +1,31 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:clay"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:amber"
+    },
+    {
+      "item": "primeva:quicksilver"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "research": "golem_cores",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:golem_core_blank",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 8,
+    "terra": 8
+  }
+}

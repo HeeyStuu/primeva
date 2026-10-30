@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "primeva:argent_planks"
+    }
+  },
+  "result": {
+    "id": "primeva:argent_slab",
+    "count": 6
+  }
+}

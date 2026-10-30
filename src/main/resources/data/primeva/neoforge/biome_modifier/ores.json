@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "primeva:ore_vermilion",
+    "primeva:ore_amber"
+  ],
+  "step": "underground_ores"
+}

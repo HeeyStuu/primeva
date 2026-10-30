@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcane_lamp"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "research": "arcane_lamps",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:growth_lamp",
+    "count": 1
+  },
+  "essences": {
+    "terra": 20,
+    "lumen": 12
+  }
+}

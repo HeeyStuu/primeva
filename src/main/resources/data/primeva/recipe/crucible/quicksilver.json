@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:redstone"
+  },
+  "essences": {
+    "tide": 3,
+    "lumen": 2
+  },
+  "research": "crucible",
+  "result": {
+    "id": "primeva:quicksilver",
+    "count": 1
+  }
+}

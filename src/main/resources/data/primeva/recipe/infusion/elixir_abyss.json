@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:empty_phial"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_tide"
+    },
+    {
+      "item": "minecraft:pufferfish"
+    },
+    {
+      "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "minecraft:nautilus_shell"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    }
+  ],
+  "research": "elixirs",
+  "instability": 6,
+  "tier": 2,
+  "result": {
+    "id": "primeva:elixir_abyss",
+    "count": 3
+  },
+  "essences": {
+    "tide": 40
+  }
+}

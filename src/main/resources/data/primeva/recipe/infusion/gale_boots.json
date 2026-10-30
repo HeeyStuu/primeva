@@ -1,0 +1,35 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:iron_boots"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "research": "gale_boots",
+  "instability": 4,
+  "result": {
+    "id": "primeva:gale_boots",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32
+  }
+}

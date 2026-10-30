@@ -1,0 +1,42 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:diamond"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "research": "crystals",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:crystal_ember",
+    "count": 1
+  },
+  "essences": {
+    "ember": 160
+  }
+}

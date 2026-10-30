@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:golden_apple"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    }
+  ],
+  "research": "trinkets",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:verdant_charm",
+    "count": 1
+  },
+  "essences": {
+    "terra": 32,
+    "lumen": 16
+  }
+}

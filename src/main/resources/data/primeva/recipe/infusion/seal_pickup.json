@@ -1,0 +1,27 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:primordial_salt"
+  },
+  "pedestals": [
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "research": "golemancy",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:seal_pickup",
+    "count": 2
+  },
+  "essences": {
+    "gale": 16
+  }
+}

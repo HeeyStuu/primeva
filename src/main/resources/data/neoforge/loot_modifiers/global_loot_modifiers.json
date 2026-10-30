@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "entries": [
+    "primeva:chests_common_simple_dungeon",
+    "primeva:chests_common_abandoned_mineshaft",
+    "primeva:chests_common_desert_pyramid",
+    "primeva:chests_common_jungle_temple",
+    "primeva:chests_common_pillager_outpost",
+    "primeva:chests_common_shipwreck_treasure",
+    "primeva:chests_common_ruined_portal",
+    "primeva:chests_rare_stronghold_library",
+    "primeva:chests_rare_woodland_mansion",
+    "primeva:chests_rare_ancient_city",
+    "primeva:chests_rare_end_city_treasure",
+    "primeva:chests_rare_bastion_treasure",
+    "primeva:brain_zombie",
+    "primeva:brain_husk",
+    "primeva:brain_drowned",
+    "primeva:brain_zombie_villager"
+  ]
+}

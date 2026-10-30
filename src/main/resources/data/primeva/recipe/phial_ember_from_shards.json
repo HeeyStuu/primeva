@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "primeva:shard_ember"
+    },
+    {
+      "item": "primeva:shard_ember"
+    },
+    {
+      "item": "primeva:shard_ember"
+    },
+    {
+      "item": "primeva:shard_ember"
+    },
+    {
+      "item": "primeva:empty_phial"
+    }
+  ],
+  "result": {
+    "id": "primeva:phial_ember",
+    "count": 1
+  }
+}

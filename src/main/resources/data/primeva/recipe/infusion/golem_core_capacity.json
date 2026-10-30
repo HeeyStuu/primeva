@@ -1,0 +1,30 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:golem_core_blank"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    }
+  ],
+  "research": "golem_cores",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:golem_core_capacity",
+    "count": 1
+  },
+  "essences": {
+    "tide": 32
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "primeva:crystal_terra"
+    },
+    {
+      "item": "primeva:crystal_ember"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "primeva:phial_terra"
+    }
+  ],
+  "research": "primeval_tools",
+  "instability": 8,
+  "tier": 2,
+  "result": {
+    "id": "primeva:primeval_pickaxe",
+    "count": 1
+  },
+  "essences": {
+    "terra": 40
+  }
+}

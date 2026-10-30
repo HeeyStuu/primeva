@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:altar"
+    },
+    "title": {
+      "translate": "advancements.primeva.altar.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.altar.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "primeva:altar"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:grimoire"
+}

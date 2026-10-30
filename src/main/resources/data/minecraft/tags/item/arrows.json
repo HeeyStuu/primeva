@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "primeva:arrow_ember",
+    "primeva:arrow_tide",
+    "primeva:arrow_terra",
+    "primeva:arrow_gale",
+    "primeva:arrow_lumen",
+    "primeva:arrow_umbra"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:echo_shard"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_umbra"
+    },
+    {
+      "item": "primeva:crystal_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    }
+  ],
+  "research": "greater_wands",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:wand_umbra",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 80
+  }
+}

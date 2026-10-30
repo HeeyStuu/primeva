@@ -1,0 +1,30 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:primordial_salt"
+  },
+  "pedestals": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "primeva:phial_gale"
+    }
+  ],
+  "research": "advanced_seals",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:seal_stock",
+    "count": 2
+  },
+  "essences": {
+    "gale": 16
+  }
+}

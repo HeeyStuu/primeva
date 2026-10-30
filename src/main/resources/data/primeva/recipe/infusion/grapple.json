@@ -1,0 +1,33 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:tripwire_hook"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:crossbow"
+    }
+  ],
+  "research": "grapple",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:grapple",
+    "count": 1
+  },
+  "essences": {
+    "gale": 16
+  }
+}

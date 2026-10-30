@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:amber"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:iron_pickaxe"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "foci",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:focus_excavation",
+    "count": 1
+  },
+  "essences": {
+    "terra": 32
+  }
+}

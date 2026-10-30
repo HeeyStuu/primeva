@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:blaze_rod"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "primeva:arcane_dust"
+    }
+  ],
+  "research": "elemental_wands",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:wand_ember",
+    "count": 1
+  },
+  "essences": {
+    "ember": 48
+  }
+}

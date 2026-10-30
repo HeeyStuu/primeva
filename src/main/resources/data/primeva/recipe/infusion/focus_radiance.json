@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:amber"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "advanced_foci",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:focus_radiance",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 40,
+    "tide": 10
+  }
+}

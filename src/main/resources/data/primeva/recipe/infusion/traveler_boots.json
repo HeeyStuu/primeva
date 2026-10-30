@@ -1,0 +1,33 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:leather_boots"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:rabbit_hide"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    }
+  ],
+  "research": "traveler_boots",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:traveler_boots",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:golem_core_blank"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:spyglass"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    }
+  ],
+  "research": "golem_cores",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:golem_core_reach",
+    "count": 1
+  },
+  "essences": {
+    "terra": 32
+  }
+}

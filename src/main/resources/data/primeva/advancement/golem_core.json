@@ -1,0 +1,32 @@
+{
+  "parent": "primeva:golem",
+  "display": {
+    "icon": {
+      "id": "primeva:golem_core_strength"
+    },
+    "title": {
+      "translate": "advancements.primeva.golem_core.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.golem_core.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "primeva:golem_core_speed",
+              "primeva:golem_core_reach",
+              "primeva:golem_core_capacity",
+              "primeva:golem_core_strength"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

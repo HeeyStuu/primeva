@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "primeva:block/elder_log"
+    },
+    "axis=z": {
+      "model": "primeva:block/elder_log_horizontal",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "primeva:block/elder_log_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

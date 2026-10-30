@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=up": {
+      "model": "primeva:block/crystal_cluster_lumen"
+    },
+    "facing=down": {
+      "model": "primeva:block/crystal_cluster_lumen",
+      "x": 180
+    },
+    "facing=north": {
+      "model": "primeva:block/crystal_cluster_lumen",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "primeva:block/crystal_cluster_lumen",
+      "x": 90,
+      "y": 180
+    },
+    "facing=east": {
+      "model": "primeva:block/crystal_cluster_lumen",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west": {
+      "model": "primeva:block/crystal_cluster_lumen",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

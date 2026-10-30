@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "primeva:crimson_cloth"
+    }
+  },
+  "result": {
+    "id": "primeva:crimson_boots",
+    "count": 1
+  }
+}

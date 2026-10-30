@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "GCG",
+    " A "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:spyglass"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "A": {
+      "item": "primeva:arcane_dust"
+    }
+  },
+  "result": {
+    "id": "primeva:astral_sextant",
+    "count": 1
+  }
+}

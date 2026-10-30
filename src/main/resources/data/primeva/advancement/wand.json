@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:wand_ember"
+    },
+    "title": {
+      "translate": "advancements.primeva.wand.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.wand.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "primeva:wand_ember",
+              "primeva:wand_tide",
+              "primeva:wand_terra",
+              "primeva:wand_gale",
+              "primeva:wand_lumen",
+              "primeva:wand_umbra"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:altar"
+}

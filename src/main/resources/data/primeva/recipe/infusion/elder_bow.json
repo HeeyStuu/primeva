@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:bow"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:elder_log"
+    },
+    {
+      "item": "primeva:elder_log"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:string"
+    }
+  ],
+  "research": "elder_bow",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:elder_bow",
+    "count": 1
+  },
+  "essences": {
+    "gale": 20,
+    "terra": 12
+  }
+}

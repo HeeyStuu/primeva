@@ -1,0 +1,14 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:arrow"
+  },
+  "essences": {
+    "umbra": 3
+  },
+  "research": "essence_arrows",
+  "result": {
+    "id": "primeva:arrow_umbra",
+    "count": 2
+  }
+}

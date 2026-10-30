@@ -1,0 +1,42 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:diamond"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "primeva:primeval_ingot"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "research": "crystals",
+  "instability": 7,
+  "tier": 2,
+  "result": {
+    "id": "primeva:crystal_tide",
+    "count": 1
+  },
+  "essences": {
+    "tide": 160
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "primeva:empty_phial"
+  },
+  "essences": {
+    "lumen": 8,
+    "tide": 6,
+    "gale": 4
+  },
+  "research": "purification",
+  "result": {
+    "id": "primeva:lucidity_tonic",
+    "count": 1
+  }
+}

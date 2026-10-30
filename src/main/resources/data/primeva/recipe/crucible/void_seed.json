@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:ender_pearl"
+  },
+  "essences": {
+    "umbra": 10,
+    "gale": 6
+  },
+  "research": "voidsteel",
+  "result": {
+    "id": "primeva:void_seed",
+    "count": 1
+  }
+}

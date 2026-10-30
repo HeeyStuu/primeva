@@ -1,0 +1,634 @@
+{
+  "values": {
+    "#minecraft:logs": {
+      "terra": 2,
+      "ember": 1
+    },
+    "#minecraft:planks": {
+      "terra": 1
+    },
+    "#minecraft:saplings": {
+      "terra": 2,
+      "lumen": 1
+    },
+    "#minecraft:leaves": {
+      "terra": 1,
+      "gale": 1
+    },
+    "#minecraft:flowers": {
+      "terra": 1,
+      "lumen": 2
+    },
+    "#minecraft:wool": {
+      "gale": 2,
+      "terra": 1
+    },
+    "#minecraft:sand": {
+      "terra": 1,
+      "gale": 1
+    },
+    "#c:cobblestones": {
+      "terra": 1
+    },
+    "#c:ores": {
+      "terra": 3,
+      "lumen": 1
+    },
+    "#c:raw_materials": {
+      "terra": 3,
+      "ember": 1
+    },
+    "#c:ingots/iron": {
+      "terra": 3,
+      "ember": 1
+    },
+    "#c:ingots/gold": {
+      "lumen": 3,
+      "terra": 2
+    },
+    "#c:ingots/copper": {
+      "terra": 2,
+      "tide": 1
+    },
+    "#c:ingots/netherite": {
+      "ember": 6,
+      "terra": 6,
+      "umbra": 4
+    },
+    "#c:ingots/steel": {
+      "terra": 4,
+      "ember": 2
+    },
+    "#c:ingots/tin": {
+      "terra": 2,
+      "gale": 1
+    },
+    "#c:ingots/silver": {
+      "lumen": 3,
+      "tide": 1
+    },
+    "#c:ingots/lead": {
+      "terra": 3,
+      "umbra": 1
+    },
+    "#c:ingots/nickel": {
+      "terra": 3
+    },
+    "#c:ingots/osmium": {
+      "terra": 3,
+      "gale": 1
+    },
+    "#c:ingots/uranium": {
+      "ember": 3,
+      "umbra": 3
+    },
+    "#c:ingots/zinc": {
+      "terra": 2,
+      "tide": 1
+    },
+    "#c:ingots/brass": {
+      "terra": 2,
+      "ember": 2
+    },
+    "#c:ingots/bronze": {
+      "terra": 3,
+      "ember": 1
+    },
+    "#c:ingots/aluminum": {
+      "terra": 2,
+      "gale": 2
+    },
+    "#c:gems/diamond": {
+      "lumen": 4,
+      "terra": 4
+    },
+    "#c:gems/emerald": {
+      "lumen": 4,
+      "terra": 2,
+      "tide": 1
+    },
+    "#c:gems/lapis": {
+      "lumen": 2,
+      "tide": 1
+    },
+    "#c:gems/quartz": {
+      "lumen": 2,
+      "terra": 1
+    },
+    "#c:gems/amethyst": {
+      "lumen": 3,
+      "terra": 1
+    },
+    "#c:gems/certus_quartz": {
+      "lumen": 3,
+      "tide": 1
+    },
+    "#c:gems/fluix": {
+      "lumen": 3,
+      "umbra": 1
+    },
+    "#c:gems/source": {
+      "lumen": 3,
+      "gale": 1
+    },
+    "#c:gems/prismarine": {
+      "tide": 3,
+      "terra": 1
+    },
+    "#c:dusts/redstone": {
+      "ember": 2,
+      "lumen": 1
+    },
+    "#c:dusts/glowstone": {
+      "lumen": 3
+    },
+    "minecraft:stone": {
+      "terra": 2
+    },
+    "minecraft:dirt": {
+      "terra": 1
+    },
+    "minecraft:grass_block": {
+      "terra": 1,
+      "lumen": 1
+    },
+    "minecraft:gravel": {
+      "terra": 1,
+      "gale": 1
+    },
+    "minecraft:clay_ball": {
+      "tide": 1,
+      "terra": 1
+    },
+    "minecraft:water_bucket": {
+      "tide": 6
+    },
+    "minecraft:lava_bucket": {
+      "ember": 6,
+      "terra": 1
+    },
+    "minecraft:ice": {
+      "tide": 3,
+      "gale": 1
+    },
+    "minecraft:snowball": {
+      "tide": 1,
+      "gale": 1
+    },
+    "minecraft:kelp": {
+      "tide": 2,
+      "terra": 1
+    },
+    "minecraft:coal": {
+      "ember": 3,
+      "terra": 1
+    },
+    "minecraft:charcoal": {
+      "ember": 3
+    },
+    "minecraft:blaze_powder": {
+      "ember": 4,
+      "lumen": 1
+    },
+    "minecraft:blaze_rod": {
+      "ember": 6,
+      "lumen": 2
+    },
+    "minecraft:magma_cream": {
+      "ember": 3,
+      "tide": 1
+    },
+    "minecraft:fire_charge": {
+      "ember": 3,
+      "gale": 1
+    },
+    "minecraft:feather": {
+      "gale": 3
+    },
+    "minecraft:string": {
+      "gale": 1,
+      "terra": 1
+    },
+    "minecraft:phantom_membrane": {
+      "gale": 4,
+      "umbra": 2
+    },
+    "minecraft:ender_pearl": {
+      "umbra": 4,
+      "gale": 2
+    },
+    "minecraft:ender_eye": {
+      "umbra": 4,
+      "ember": 2,
+      "lumen": 2
+    },
+    "minecraft:torch": {
+      "lumen": 2,
+      "ember": 1
+    },
+    "minecraft:bone": {
+      "umbra": 2,
+      "terra": 1
+    },
+    "minecraft:rotten_flesh": {
+      "umbra": 2
+    },
+    "minecraft:spider_eye": {
+      "umbra": 3
+    },
+    "minecraft:gunpowder": {
+      "ember": 3,
+      "gale": 2
+    },
+    "minecraft:slime_ball": {
+      "tide": 3,
+      "terra": 1
+    },
+    "minecraft:ink_sac": {
+      "tide": 2,
+      "umbra": 2
+    },
+    "minecraft:glow_ink_sac": {
+      "tide": 2,
+      "lumen": 2
+    },
+    "minecraft:obsidian": {
+      "terra": 4,
+      "ember": 2,
+      "umbra": 1
+    },
+    "minecraft:netherrack": {
+      "ember": 1,
+      "terra": 1
+    },
+    "minecraft:soul_sand": {
+      "umbra": 2,
+      "terra": 1
+    },
+    "minecraft:nether_wart": {
+      "umbra": 2,
+      "terra": 1
+    },
+    "minecraft:wither_rose": {
+      "umbra": 5
+    },
+    "minecraft:nether_star": {
+      "lumen": 10,
+      "umbra": 10
+    },
+    "minecraft:echo_shard": {
+      "umbra": 6,
+      "tide": 2
+    },
+    "minecraft:sculk": {
+      "umbra": 2
+    },
+    "minecraft:wheat": {
+      "terra": 1,
+      "lumen": 1
+    },
+    "minecraft:apple": {
+      "terra": 1,
+      "lumen": 1
+    },
+    "minecraft:sugar_cane": {
+      "tide": 1,
+      "terra": 1
+    },
+    "minecraft:cactus": {
+      "terra": 1,
+      "tide": 1
+    },
+    "minecraft:leather": {
+      "terra": 1,
+      "gale": 1
+    },
+    "minecraft:egg": {
+      "terra": 1,
+      "gale": 1
+    },
+    "minecraft:honeycomb": {
+      "lumen": 2,
+      "terra": 1
+    },
+    "minecraft:nautilus_shell": {
+      "tide": 4
+    },
+    "minecraft:heart_of_the_sea": {
+      "tide": 10,
+      "lumen": 4
+    },
+    "minecraft:netherite_scrap": {
+      "ember": 4,
+      "terra": 4,
+      "umbra": 2
+    },
+    "minecraft:glass": {
+      "terra": 1,
+      "lumen": 1
+    },
+    "minecraft:sugar": {
+      "tide": 1,
+      "lumen": 1
+    },
+    "minecraft:paper": {
+      "terra": 1,
+      "gale": 1
+    },
+    "minecraft:glow_berries": {
+      "lumen": 2,
+      "terra": 1
+    },
+    "minecraft:sweet_berries": {
+      "terra": 1,
+      "tide": 1
+    },
+    "minecraft:pumpkin": {
+      "terra": 2,
+      "tide": 1
+    },
+    "minecraft:melon_slice": {
+      "tide": 1,
+      "terra": 1
+    },
+    "minecraft:carrot": {
+      "terra": 1,
+      "lumen": 1
+    },
+    "minecraft:potato": {
+      "terra": 2
+    },
+    "minecraft:beetroot": {
+      "terra": 1,
+      "ember": 1
+    },
+    "minecraft:cocoa_beans": {
+      "terra": 1,
+      "ember": 1
+    },
+    "minecraft:bamboo": {
+      "terra": 1,
+      "gale": 1
+    },
+    "minecraft:moss_block": {
+      "terra": 2,
+      "tide": 1
+    },
+    "minecraft:mushroom_stem": {
+      "terra": 1,
+      "umbra": 1
+    },
+    "minecraft:red_mushroom": {
+      "terra": 1,
+      "umbra": 1
+    },
+    "minecraft:brown_mushroom": {
+      "terra": 1,
+      "umbra": 1
+    },
+    "minecraft:breeze_rod": {
+      "gale": 6,
+      "ember": 1
+    },
+    "minecraft:prismarine_crystals": {
+      "tide": 2,
+      "lumen": 2
+    },
+    "minecraft:shulker_shell": {
+      "umbra": 4,
+      "gale": 2
+    },
+    "minecraft:dragon_breath": {
+      "umbra": 8,
+      "ember": 4
+    },
+    "minecraft:ghast_tear": {
+      "tide": 3,
+      "umbra": 3
+    },
+    "minecraft:rabbit_foot": {
+      "gale": 3,
+      "lumen": 1
+    },
+    "minecraft:turtle_scute": {
+      "tide": 3,
+      "terra": 2
+    },
+    "minecraft:armadillo_scute": {
+      "terra": 3
+    },
+    "primeva:crystal_ember": {
+      "ember": 30
+    },
+    "primeva:crystal_tide": {
+      "tide": 30
+    },
+    "primeva:crystal_terra": {
+      "terra": 30
+    },
+    "primeva:crystal_gale": {
+      "gale": 30
+    },
+    "primeva:crystal_lumen": {
+      "lumen": 30
+    },
+    "primeva:crystal_umbra": {
+      "umbra": 30
+    },
+    "minecraft:totem_of_undying": {
+      "lumen": 10,
+      "terra": 6
+    },
+    "minecraft:elytra": {
+      "gale": 14,
+      "umbra": 4
+    },
+    "minecraft:dragon_egg": {
+      "umbra": 20,
+      "lumen": 20
+    },
+    "minecraft:wither_skeleton_skull": {
+      "umbra": 10
+    },
+    "minecraft:enchanted_golden_apple": {
+      "lumen": 14,
+      "terra": 8
+    },
+    "primeva:quicksilver": {
+      "tide": 2,
+      "terra": 1,
+      "umbra": 1
+    },
+    "primeva:amber": {
+      "terra": 2,
+      "lumen": 2
+    },
+    "primeva:primordial_salt": {
+      "lumen": 2,
+      "terra": 2,
+      "gale": 2
+    },
+    "primeva:arcanite_ingot": {
+      "terra": 3,
+      "umbra": 1,
+      "lumen": 2
+    },
+    "primeva:arcanite_nugget": {
+      "terra": 1
+    },
+    "primeva:void_seed": {
+      "umbra": 6,
+      "gale": 2
+    },
+    "primeva:voidsteel_ingot": {
+      "umbra": 6,
+      "terra": 3
+    },
+    "primeva:arcane_fuel": {
+      "ember": 6,
+      "terra": 1
+    },
+    "primeva:eternal_flame": {
+      "ember": 3,
+      "lumen": 4
+    },
+    "primeva:argent_log": {
+      "terra": 2,
+      "lumen": 2
+    },
+    "primeva:elder_log": {
+      "terra": 3,
+      "umbra": 1
+    },
+    "primeva:shard_ember": {
+      "ember": 4
+    },
+    "primeva:crystal_cluster_ember": {
+      "ember": 6
+    },
+    "primeva:shard_tide": {
+      "tide": 4
+    },
+    "primeva:crystal_cluster_tide": {
+      "tide": 6
+    },
+    "primeva:shard_terra": {
+      "terra": 4
+    },
+    "primeva:crystal_cluster_terra": {
+      "terra": 6
+    },
+    "primeva:shard_gale": {
+      "gale": 4
+    },
+    "primeva:crystal_cluster_gale": {
+      "gale": 6
+    },
+    "primeva:shard_lumen": {
+      "lumen": 4
+    },
+    "primeva:crystal_cluster_lumen": {
+      "lumen": 6
+    },
+    "primeva:shard_umbra": {
+      "umbra": 4
+    },
+    "primeva:crystal_cluster_umbra": {
+      "umbra": 6
+    },
+    "primeva:crimson_cloth": {
+      "ember": 2,
+      "umbra": 1
+    },
+    "primeva:curio_ancient": {
+      "terra": 4,
+      "lumen": 3
+    },
+    "primeva:curio_abyss": {
+      "umbra": 6
+    },
+    "primeva:curio_gear": {
+      "ember": 3,
+      "terra": 3
+    },
+    "primeva:curio_specimen": {
+      "tide": 3,
+      "gale": 3
+    },
+    "primeva:miasma_shard": {
+      "umbra": 3,
+      "gale": 1
+    },
+    "primeva:miasmic_residue": {
+      "umbra": 8,
+      "gale": 2
+    },
+    "primeva:miasma_crystal": {
+      "umbra": 6
+    },
+    "primeva:purifying_incense": {
+      "lumen": 6,
+      "tide": 2
+    },
+    "primeva:research_scroll": {
+      "lumen": 1,
+      "gale": 1
+    },
+    "primeva:lucidity_tonic": {
+      "lumen": 4,
+      "tide": 3
+    },
+    "primeva:decaying_brain": {
+      "umbra": 3,
+      "terra": 1
+    },
+    "primeva:cleansing_soap": {
+      "lumen": 2,
+      "tide": 2
+    },
+    "primeva:mind_mirror": {
+      "lumen": 3,
+      "umbra": 2
+    },
+    "primeva:astral_sextant": {
+      "lumen": 4,
+      "gale": 3
+    },
+    "primeva:arcane_stone": {
+      "terra": 1
+    },
+    "primeva:arcane_bricks": {
+      "terra": 1
+    },
+    "primeva:cloud_ring": {
+      "gale": 8
+    },
+    "primeva:elder_bow": {
+      "gale": 4,
+      "terra": 3
+    },
+    "primeva:arrow_ember": {
+      "ember": 1,
+      "gale": 1
+    },
+    "primeva:arrow_tide": {
+      "tide": 1,
+      "gale": 1
+    },
+    "primeva:arrow_terra": {
+      "terra": 1,
+      "gale": 1
+    },
+    "primeva:arrow_gale": {
+      "gale": 1
+    },
+    "primeva:arrow_lumen": {
+      "lumen": 1,
+      "gale": 1
+    },
+    "primeva:arrow_umbra": {
+      "umbra": 1,
+      "gale": 1
+    }
+  }
+}

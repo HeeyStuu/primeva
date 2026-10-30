@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "essences": {
+    "terra": 2,
+    "tide": 1
+  },
+  "research": "crucible",
+  "result": {
+    "id": "minecraft:leather",
+    "count": 1
+  }
+}

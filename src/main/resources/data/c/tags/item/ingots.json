@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "primeva:arcanite_ingot",
+    "primeva:voidsteel_ingot",
+    "primeva:primeval_ingot"
+  ]
+}

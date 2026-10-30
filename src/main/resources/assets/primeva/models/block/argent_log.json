@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "primeva:block/argent_log_top",
+    "side": "primeva:block/argent_log"
+  }
+}

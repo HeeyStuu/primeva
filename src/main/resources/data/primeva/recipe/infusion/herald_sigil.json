@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:crimson_rites"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crimson_cloth"
+    },
+    {
+      "item": "primeva:crimson_cloth"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:miasmic_residue"
+    },
+    {
+      "item": "minecraft:gold_block"
+    }
+  ],
+  "research": "crimson_cult",
+  "instability": 5,
+  "tier": 1,
+  "result": {
+    "id": "primeva:herald_sigil",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 32
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcanite_shovel"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:moss_block"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "elemental_tools",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:terra_shovel",
+    "count": 1
+  },
+  "essences": {
+    "terra": 32
+  }
+}

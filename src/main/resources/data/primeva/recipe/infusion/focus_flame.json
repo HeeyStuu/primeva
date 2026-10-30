@@ -1,0 +1,33 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:amber"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    }
+  ],
+  "research": "foci",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:focus_flame",
+    "count": 1
+  },
+  "essences": {
+    "ember": 32
+  }
+}

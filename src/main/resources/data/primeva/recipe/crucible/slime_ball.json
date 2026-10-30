@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:sugar"
+  },
+  "essences": {
+    "tide": 3,
+    "terra": 2
+  },
+  "research": "crucible",
+  "result": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  }
+}

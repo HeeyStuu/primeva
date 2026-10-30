@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P ",
+    "PTP",
+    " P "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:copper_ingot"
+    },
+    "T": {
+      "item": "primeva:essence_tube"
+    }
+  },
+  "result": {
+    "id": "primeva:essence_filter_tube",
+    "count": 1
+  }
+}

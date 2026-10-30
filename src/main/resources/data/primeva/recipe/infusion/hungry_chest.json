@@ -1,0 +1,31 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:chest"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:hopper"
+    }
+  ],
+  "research": "arcane_devices",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:hungry_chest",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 16,
+    "terra": 16
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:primordial_salt"
+  },
+  "pedestals": [
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "tag": "minecraft:saplings"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "research": "golemancy",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:seal_lumber",
+    "count": 2
+  },
+  "essences": {
+    "lumen": 8,
+    "terra": 8
+  }
+}

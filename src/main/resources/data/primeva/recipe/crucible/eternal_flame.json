@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "essences": {
+    "ember": 4,
+    "lumen": 4
+  },
+  "research": "eternal_flame",
+  "result": {
+    "id": "primeva:eternal_flame",
+    "count": 1
+  }
+}

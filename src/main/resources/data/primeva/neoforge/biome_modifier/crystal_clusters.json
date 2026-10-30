@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "primeva:cluster_ember",
+    "primeva:cluster_tide",
+    "primeva:cluster_terra",
+    "primeva:cluster_gale",
+    "primeva:cluster_lumen",
+    "primeva:cluster_umbra"
+  ],
+  "step": "underground_decoration"
+}

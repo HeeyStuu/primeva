@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:iron_sword"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crimson_cloth"
+    },
+    {
+      "item": "primeva:crimson_cloth"
+    },
+    {
+      "item": "primeva:phial_umbra"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "research": "crimson_cult",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:crimson_blade",
+    "count": 1
+  },
+  "essences": {
+    "umbra": 16,
+    "ember": 16
+  }
+}

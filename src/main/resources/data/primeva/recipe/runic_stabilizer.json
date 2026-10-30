@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "QRQ",
+    "QQQ"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    },
+    "R": {
+      "item": "primeva:arcanite_ingot"
+    }
+  },
+  "result": {
+    "id": "primeva:runic_stabilizer",
+    "count": 1
+  }
+}

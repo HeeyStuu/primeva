@@ -1,0 +1,16 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "primeva:void_seed"
+  },
+  "essences": {
+    "umbra": 8,
+    "terra": 6,
+    "ember": 4
+  },
+  "research": "voidsteel",
+  "result": {
+    "id": "primeva:voidsteel_ingot",
+    "count": 1
+  }
+}

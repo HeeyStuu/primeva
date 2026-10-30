@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcanite_hoe"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "elemental_tools",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:lumen_hoe",
+    "count": 1
+  },
+  "essences": {
+    "lumen": 32
+  }
+}

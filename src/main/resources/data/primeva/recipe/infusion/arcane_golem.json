@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:clay"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "primeva:amber"
+    }
+  ],
+  "research": "golemancy",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:arcane_golem",
+    "count": 1
+  },
+  "essences": {
+    "terra": 16,
+    "lumen": 16
+  }
+}

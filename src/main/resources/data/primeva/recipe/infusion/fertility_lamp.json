@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcane_lamp"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    }
+  ],
+  "research": "arcane_lamps",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:fertility_lamp",
+    "count": 1
+  },
+  "essences": {
+    "tide": 16,
+    "lumen": 16
+  }
+}

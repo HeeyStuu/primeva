@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcanite_axe"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "primeva:phial_tide"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "elemental_tools",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:tide_axe",
+    "count": 1
+  },
+  "essences": {
+    "tide": 32
+  }
+}

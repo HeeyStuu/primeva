@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:phial_ember"
+    },
+    "title": {
+      "translate": "advancements.primeva.phial.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.phial.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "primeva:phial_ember",
+              "primeva:phial_tide",
+              "primeva:phial_terra",
+              "primeva:phial_gale",
+              "primeva:phial_lumen",
+              "primeva:phial_umbra"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:distiller"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "primeva:arcane_dust"
+    }
+  },
+  "result": {
+    "id": "primeva:arcane_stone",
+    "count": 8
+  }
+}

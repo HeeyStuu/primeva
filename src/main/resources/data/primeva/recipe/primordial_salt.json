@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "primeva:shards"
+    },
+    {
+      "tag": "primeva:shards"
+    },
+    {
+      "tag": "primeva:shards"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "result": {
+    "id": "primeva:primordial_salt",
+    "count": 2
+  }
+}

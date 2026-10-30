@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "B  ",
+    "BB ",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "primeva:argent_planks"
+    }
+  },
+  "result": {
+    "id": "primeva:argent_stairs",
+    "count": 4
+  }
+}

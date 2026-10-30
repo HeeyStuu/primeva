@@ -1,0 +1,14 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "essences": {
+    "gale": 4
+  },
+  "research": "crucible",
+  "result": {
+    "id": "primeva:shard_gale",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:coal_block"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_ember"
+    },
+    {
+      "item": "primeva:phial_lumen"
+    }
+  ],
+  "research": "transmutation",
+  "instability": 6,
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  },
+  "essences": {
+    "terra": 48,
+    "ember": 32,
+    "lumen": 16
+  }
+}

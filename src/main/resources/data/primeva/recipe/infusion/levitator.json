@@ -1,0 +1,37 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:copper_block"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:phantom_membrane"
+    }
+  ],
+  "research": "levitation",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:levitator",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32,
+    "tide": 8
+  }
+}

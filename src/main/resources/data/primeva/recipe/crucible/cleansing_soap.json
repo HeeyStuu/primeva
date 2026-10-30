@@ -1,0 +1,15 @@
+{
+  "type": "primeva:crucible",
+  "catalyst": {
+    "item": "minecraft:bone_meal"
+  },
+  "essences": {
+    "lumen": 4,
+    "tide": 4
+  },
+  "research": "sanity",
+  "result": {
+    "id": "primeva:cleansing_soap",
+    "count": 2
+  }
+}

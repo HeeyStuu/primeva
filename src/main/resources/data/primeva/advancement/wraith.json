@@ -1,0 +1,25 @@
+{
+  "parent": "primeva:root",
+  "display": {
+    "icon": {
+      "id": "primeva:miasmic_residue"
+    },
+    "title": {
+      "translate": "advancements.primeva.wraith.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.wraith.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "primeva:miasma_wraith"
+        }
+      }
+    }
+  }
+}

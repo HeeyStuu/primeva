@@ -1,0 +1,27 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:primordial_salt"
+  },
+  "pedestals": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ],
+  "research": "golemancy",
+  "instability": 2,
+  "tier": 1,
+  "result": {
+    "id": "primeva:seal_harvest",
+    "count": 2
+  },
+  "essences": {
+    "terra": 16
+  }
+}

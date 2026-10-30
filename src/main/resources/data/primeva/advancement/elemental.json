@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "id": "primeva:ember_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.primeva.elemental.title"
+    },
+    "description": {
+      "translate": "advancements.primeva.elemental.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "primeva:ember_pickaxe",
+              "primeva:tide_axe",
+              "primeva:terra_shovel",
+              "primeva:gale_sword",
+              "primeva:lumen_hoe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "parent": "primeva:arcanite"
+}

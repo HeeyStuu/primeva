@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cauldron",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "primeva:block/crucible_side",
+    "top": "primeva:block/crucible_top",
+    "bottom": "primeva:block/crucible_bottom",
+    "side": "primeva:block/crucible_side",
+    "inside": "primeva:block/crucible_inner"
+  }
+}

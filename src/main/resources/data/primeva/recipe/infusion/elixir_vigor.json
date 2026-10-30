@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:empty_phial"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:crystal_ember"
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "primeva:phial_ember"
+    }
+  ],
+  "research": "elixirs",
+  "instability": 6,
+  "tier": 2,
+  "result": {
+    "id": "primeva:elixir_vigor",
+    "count": 3
+  },
+  "essences": {
+    "ember": 40
+  }
+}

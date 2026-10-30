@@ -1,0 +1,34 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "primeva:arcanite_nugget"
+    }
+  ],
+  "research": "cloud_ring",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:cloud_ring",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32,
+    "lumen": 12
+  }
+}

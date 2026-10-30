@@ -1,0 +1,36 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "primeva:arcanite_sword"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "primeva:phial_gale"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:breeze_rod"
+    },
+    {
+      "item": "primeva:quicksilver"
+    }
+  ],
+  "research": "elemental_tools",
+  "instability": 4,
+  "tier": 1,
+  "result": {
+    "id": "primeva:gale_sword",
+    "count": 1
+  },
+  "essences": {
+    "gale": 32
+  }
+}

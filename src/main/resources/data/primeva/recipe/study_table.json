@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DBC",
+    "PPP",
+    "L L"
+  ],
+  "key": {
+    "D": {
+      "item": "primeva:arcane_dust"
+    },
+    "B": {
+      "item": "minecraft:writable_book"
+    },
+    "C": {
+      "item": "minecraft:candle"
+    },
+    "P": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "id": "primeva:study_table",
+    "count": 1
+  }
+}

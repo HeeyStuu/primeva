@@ -1,0 +1,33 @@
+{
+  "type": "primeva:infusion",
+  "center": {
+    "item": "minecraft:leather"
+  },
+  "pedestals": [
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "primeva:phial_terra"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "primeva:arcanite_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "research": "trinkets",
+  "instability": 3,
+  "tier": 1,
+  "result": {
+    "id": "primeva:steadfast_girdle",
+    "count": 1
+  },
+  "essences": {
+    "terra": 32
+  }
+}
